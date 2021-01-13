@@ -5,5 +5,7 @@ public class Create_A_Poll {
         System.out.println("click poll button here");
 
         System.out.println("type some message into message field");
+
+        System.out.println("choose who i will send");
     }
 }
